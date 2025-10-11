@@ -2,8 +2,6 @@
 title: Safe Parking Claremont
 ---
 
-[cucc](/img/cucc.png)
-
 # Safe Parking Claremont
 
 ## Seeking Our Neighbors' Input And Support
@@ -23,6 +21,3 @@ living in their vehicles. The goal is to provide participants with an expedited 
 - Participants would be local, carefully vetted, own or have proven permission to use thei ehicles, which must be operating, and must have a valid driver's licens
 - SafeParkingLA provides constant overnight bonded licensed security, as well as caseworkers to hel participants access other needed resources and services.
 - Site would remain available for regular parking every day.
-
-
-:::::
