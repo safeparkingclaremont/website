@@ -2,7 +2,7 @@
 title: Safe Parking Claremont
 ---
 
-[airnow.gov](/img/ucc_logo.png)
+[cucc](/img/cucc.png)
 
 # Safe Parking Claremont
 
