@@ -15,8 +15,6 @@ def buildPage(page, template):
     cmd.append(f"--output={outDir}/{page}.html")
     cmd.append(f"--template=templates/{template}.html")
 
-    if (args.dummy): cmd.append(f"--metadata=dummy")
-
     cmd.append(f"pages/{page}.md")
 
     subprocess.run(cmd)
