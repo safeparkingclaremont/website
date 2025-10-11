@@ -30,7 +30,4 @@ os.makedirs(outDir)
 shutil.copytree(imagesDir, f"{outDir}/{imagesDir}")
 shutil.copytree(stylesDir, f"{outDir}/{stylesDir}")
 
-
-if args.dummy: shutil.copytree("dummy", f"{outDir}/{dummyDataDir}")
-
 buildPage("index", "index")
