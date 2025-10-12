@@ -20,3 +20,5 @@ living in their vehicles. The goal is to provide participants with an expedited 
 - Participants must have a valid driver's license
 - SafeParkingLA provides constant overnight bonded licensed security, as well as caseworkers to help participants access other needed resources and services.
 - Site would remain available for regular parking every day.
+
+ [Donate](https://claremontucc.breezechms.com/give/online){.donate-btn"}
