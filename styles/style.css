@@ -10,11 +10,11 @@ body.page {
     padding: 1%;    
 }
 
-.blockquote {
+blockquote {
     background-color: lightblue;
     padding: 20px;
 }
 
-.ul {
+ul {
     text-align: left;
 }
