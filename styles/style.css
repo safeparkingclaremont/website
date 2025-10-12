@@ -5,3 +5,14 @@
     font-family: Arial;
     gap: 12px;
 }
+
+body.page {
+    text-align: center;
+    font-family: Arial;
+        
+}
+
+body.blockquote {
+    background-color: lightblue;
+    padding: 20px;
+}
