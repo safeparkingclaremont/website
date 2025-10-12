@@ -18,3 +18,22 @@ blockquote {
 ul {
     text-align: left;
 }
+
+.donate-btn {
+      background: linear-gradient(90deg, #1976d2 0%, #64b5f6 100%);
+      color: white;
+      border: none;
+      border-radius: 30px;
+      padding: 14px 36px;
+      font-size: 1.2rem;
+      font-weight: 600;
+      box-shadow: 0 4px 16px rgba(25, 118, 210, 0.12);
+      cursor: pointer;
+      transition: background 0.3s, transform 0.2s;
+      outline: none;
+    }
+    .donate-btn:hover, .donate-btn:focus {
+      background: linear-gradient(90deg, #1565c0 0%, #90caf9 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 6px 20px rgba(25, 118, 210, 0.18);
+    }
