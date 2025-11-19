@@ -9,6 +9,12 @@ title: Safe Parking Claremont
 
 You can find out more about safe parking programs in LA County at [SafeParkingLA](https://safeparkingla.org/).
 
+\_ 
+
 Claremont United Church of Christ continues to fundraise to support [Inland Abundant Housing](https://www.inlandabundanthousing.org/), which encourages development of new permanent supportive housing and services on the property of religious entities and non-profit colleges.
 
+\_ 
+
  [Donate](https://claremontucc.breezechms.com/give/online?fund_id=1855965){.donate-btn}
+
+\_ 
