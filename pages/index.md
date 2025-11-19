@@ -2,23 +2,13 @@
 title: Safe Parking Claremont
 ---
 
-# Seeking Our Neighbors' Input And Support
-to Provide Safe Overnight Parking for Unhoused People Living in Their Vehicles
+> Claremont United Church of Christ will not be moving forward with the Safe Parking program
+> at this time due to the severe reduction in homelessness funding at the federal, state,
+> and county levels. The church and community is committed to using our resources to serve
+> Claremont and address the challenges of homelessness and affordable housing. 
 
-## You Are Warmly Invited To Discuss This Proposal:
+You can find out more about safe parking programs in LA County at [SafeParkingLA](https://safeparkingla.org/).
 
-> Wednesday, October 22, 2025 7pm
-> 
-> Louise Roberts Room, Claremont United Church of Christ ("CUCC")
-
-Claremont United Church of Christ proposes in 2026 to host [SafeParkingLA](https://safeparkingla.org/),
-a non-profit organization providing safe overnight parking and extensive supportive services or individuals 
-living in their vehicles. The goal is to provide participants with an expedited transitional pathway to stable housing.
-
-- Participants would be local and carefully vetted
-- Participants must own or have proven permission to use their vehicles, which must be operating
-- Participants must have a valid driver's license
-- SafeParkingLA provides constant overnight bonded licensed security, as well as caseworkers to help participants access other needed resources and services.
-- Site would remain available for regular parking every day.
+Claremont United Church of Christ continues to fundraise to support [Inland Abundant Housing](https://www.inlandabundanthousing.org/), which encourages development of new permanent supportive housing and services on the property of religious entities and non-profit colleges.
 
  [Donate](https://claremontucc.breezechms.com/give/online?fund_id=1855965){.donate-btn}
